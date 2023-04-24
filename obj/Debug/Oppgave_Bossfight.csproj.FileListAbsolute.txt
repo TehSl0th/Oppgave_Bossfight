@@ -1,0 +1,8 @@
+E:\Repo\Modul 3\General\Objektorientering\Oppgave_Bossfight\Oppgave_Bossfight\bin\Debug\Oppgave_Bossfight.exe.config
+E:\Repo\Modul 3\General\Objektorientering\Oppgave_Bossfight\Oppgave_Bossfight\bin\Debug\Oppgave_Bossfight.exe
+E:\Repo\Modul 3\General\Objektorientering\Oppgave_Bossfight\Oppgave_Bossfight\bin\Debug\Oppgave_Bossfight.pdb
+E:\Repo\Modul 3\General\Objektorientering\Oppgave_Bossfight\Oppgave_Bossfight\obj\Debug\Oppgave_Bossfight.csproj.AssemblyReference.cache
+E:\Repo\Modul 3\General\Objektorientering\Oppgave_Bossfight\Oppgave_Bossfight\obj\Debug\Oppgave_Bossfight.csproj.SuggestedBindingRedirects.cache
+E:\Repo\Modul 3\General\Objektorientering\Oppgave_Bossfight\Oppgave_Bossfight\obj\Debug\Oppgave_Bossfight.csproj.CoreCompileInputs.cache
+E:\Repo\Modul 3\General\Objektorientering\Oppgave_Bossfight\Oppgave_Bossfight\obj\Debug\Oppgave_Bossfight.exe
+E:\Repo\Modul 3\General\Objektorientering\Oppgave_Bossfight\Oppgave_Bossfight\obj\Debug\Oppgave_Bossfight.pdb
